@@ -1,0 +1,6 @@
+,Token,Patient_ID,Visit_Date,Doctor_Comments,Remarks,Revisit_Required,Preciption_Number
+0,RKC01282021001,ASM0405,2021-01-28,Symptoms of viral fever,prescription given,after 5 days,ASM040528012021
+1,RKC02032021002,RAJ2503,2021-02-03,General fever and cold,prescription given,Yes,RAJ250302032021
+2,RKC02032021003,AYA2503,2021-02-03,kqefuqhfnfqowf,ajhuwqfqwfnwfn,no,AYA250302032021
+0,RKC01242023003,NAN0403,2023-01-24,cold and cough,N/A,no,NAN040301242023
+0,RKC01242023004,YAM0505,2023-01-24,greenline fracture,minor,yes,YAM050501242023
